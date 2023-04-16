@@ -1,4 +1,4 @@
-# sudoku-solver
+# Sudoku-solver
 CSS, JavaScript | Built a memory game using C++ and JavaScript to test IQ Upgraded code to make the game error-free. Created HTML, CSS, JavaScript, and JSP pages for user interactions.
 # Sudoku Solver
 This is a Sudoku Solver project that uses HTML5, CSS, JavaScript, and C++ to solve Sudoku puzzles. The solver uses a backtracking algorithm to recursively test different values until a solution is found.
